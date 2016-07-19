@@ -19,6 +19,7 @@ gem 'haml-rails'
 gem 'high_voltage'
 gem 'passenger'
 gem 'pg'
+gem 'autoprefixer-rails'
 group :development do
   gem 'better_errors'
   gem 'capistrano', '~> 3.0.1'
